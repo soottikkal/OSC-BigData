@@ -1,13 +1,13 @@
 #Instructions for the workshop
 
 #connect to owens
-ssh username@owens.osc.edu
+   ssh username@owens.osc.edu
 
 #copy files
-cp -r ~soottikkal/workshop/Oct17-Bigdata ./
+    cp -r ~soottikkal/workshop/Oct17-Bigdata ./
 
 #check files
-cd Oct17-Bigdata
+    cd Oct17-Bigdata
 ls
 
 request 1 interactive node
